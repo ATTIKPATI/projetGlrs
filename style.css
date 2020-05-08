@@ -1,0 +1,143 @@
+.mainContainer{
+    /*border: 1px solid blue;*/
+    width: 69%;
+    height: 637px;
+  
+}
+.headerContainer{
+    /*border: 1px solid red;*/
+    width: 843px;
+    height: 80px;
+    background-color: #212529;
+    margin-left: 120px;
+
+}
+.img1{
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 1px;
+}
+.bodyContainer{
+   /* border: 1px solid pink;*/
+    width: 843px;
+    height: 555px;
+    margin-top: ;
+    background-image:url("Images/imgbg.jpg") ;
+    margin-left: 120px;
+
+    
+
+    
+}
+.h2{
+    width: 314px;
+    height: 58px;
+    margin-left: 302px;
+    margin-top: -55px;
+    color: white;
+}
+/*.img2{
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 1px;
+}*/
+.form1{
+    border: 1px solid red;
+    width: 498px;
+    height: 296px;
+    margin-left: 179px;
+    
+
+}
+
+input{
+    height: 55px;
+}
+
+.button{
+    width: 124px;
+    height: 48px;
+    background-color: #5ec7ee;
+    border-radius: 5px;
+    border-color: #5ec7ee;
+    color: white;
+}
+.paraph1{
+float: right;
+margin-top: 13px;
+margin-right: 165px;
+}
+.card-header{
+    background-color: #5ec7ee;
+color: white;
+}
+.card-body{
+    background-color: #f8fef4;
+}
+
+/*creation de joueur*/
+
+.bodyContainer1{
+    border: 1px solid white;
+    width: 607px;
+    height: 550px;
+    background-color: white;
+    margin-left: 118px;
+    border-radius: 5px;
+
+}
+.bodyContainer2{
+    /*border: 1px solid red;*/
+    width: 615px;
+    height: 550px;
+}
+.profilDiv{
+    /*border: 1px solid indigo;*/
+    width: 200px;
+    height: 200px;
+float: right;
+margin-top: 28px;
+}
+.h6{
+    margin-top: -10px;
+}
+.middleDiv{
+    border: 1px solid #ced4da;
+    width: 365px;
+    height: 1px;
+    background-color: #ced4da;
+}
+.avatarJoueur{
+    margin-left: 30px;
+}
+.inputInscrip{
+    margin-top: -7px;
+    margin-bottom: -18px;
+    border-color: #ced4da;
+    box-shadow: 5px;
+}
+.lastParagrap{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+.buttonCreer{
+    width: 124px;
+    height: 48px;
+    background-color: #5ec7ee;
+    border-radius: 5px;
+    border-color: #5ec7ee;
+    color: white;
+
+}
+.buttonFichier{
+    width: 140px;
+    height: 48px;
+    background-color: #5ec7ee;
+    border-radius: 5px;
+    border-color: #5ec7ee;
+    color: white;
+}
+.labelInscrip{
+   font-size: 10px;
+}
+
